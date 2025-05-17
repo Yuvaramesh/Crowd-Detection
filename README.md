@@ -118,7 +118,7 @@ crowd-detection-yolov8/
 
 #🧑‍💻 Author
 Yuva Sri Ramesh
-Portfolio | LinkedIn | GitHub
+[Portfolio](https://yuva-sri-ramesh-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/yuvasri-r/) | [GitHub](https://github.com/Yuvaramesh)
 
 📜 License
 This project is licensed under the MIT License.
