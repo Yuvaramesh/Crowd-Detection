@@ -15,10 +15,22 @@ This Streamlit web application detects crowded areas in a video using the YOLOv8
 
 ---
 
-## 📸 Demo
+## 📸 Screenshots
+### UI using Streamlit
 
-![Demo Screenshot](demo_screenshot.png)  
-*Example output showing detected persons in crowded areas (green) vs isolated individuals (blue).*
+![image](https://github.com/user-attachments/assets/3389c3b4-5404-4b0b-ae70-ca7025d4a2d0)
+
+### Group of people detection through video
+
+![image](https://github.com/user-attachments/assets/8aef1b88-d5be-497c-931e-47182c529f77)
+
+### Output with frames and count of people
+
+![image](https://github.com/user-attachments/assets/8f2f74a7-0aab-4fc4-8620-a5e987a62725)
+
+### Output in CSV file
+
+![image](https://github.com/user-attachments/assets/ff00f0cd-7f6d-4829-9b09-e6c4fcadc906)
 
 ---
 
