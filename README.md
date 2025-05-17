@@ -116,7 +116,9 @@ crowd-detection-yolov8/
 
 ---
 
-#🧑‍💻 Author
+# Demo Link 
+[Do Check it Out!](https://crowd-detection-by-yuva.streamlit.app/)
+# 🧑‍💻 Author<br>
 Yuva Sri Ramesh
 [Portfolio](https://yuva-sri-ramesh-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/yuvasri-r/) | [GitHub](https://github.com/Yuvaramesh)
 
